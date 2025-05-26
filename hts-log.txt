@@ -1,0 +1,97 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 21 May 2025 11:58:58 at https://www.atxtechnology.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.atxtechnology.com/ -O1 "C:\My Web Sites\Haraka" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:01:35	Error: 	"Not Found" (404) at link https://www.atxtechnology.com/atxtech/mailto:info@atxtechnology.com (from https://www.atxtechnology.com/)
+12:01:37	Warning: 	File not parsed, looks like binary: https://www.atxtechnology.com/wp-content/plugins/revslider/public/assets/css/openhand.cur
+12:01:37	Warning: 	File not parsed, looks like binary: https://www.atxtechnology.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+12:01:38	Error: 	"Not Found" (404) at link https://www.atxtechnology.com/wp-content/themes/induzy/assets/css/owl.video.play.png (from https://www.atxtechnology.com/wp-content/themes/induzy/assets/css/theme.min.css?ver=1.0)
+12:01:38	Error: 	"Not Found" (404) at link https://www.atxtechnology.com/wp-content/themes/induzy/assets/css/font/ytp-regular.eot (from https://www.atxtechnology.com/wp-content/themes/induzy/assets/css/theme.min.css?ver=1.0)
+12:01:38	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=1019
+12:01:38	Warning: 	File has moved from https://www.atxtechnology.com/?p=1019 to https://www.atxtechnology.com/contact-us/
+12:01:38	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=458
+12:01:38	Warning: 	File has moved from https://www.atxtechnology.com/?p=458 to https://www.atxtechnology.com/about-us/
+12:01:38	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3773
+12:01:38	Warning: 	File has moved from https://www.atxtechnology.com/?p=3773 to https://www.atxtechnology.com/our-services/
+12:01:38	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=672
+12:01:38	Warning: 	File has moved from https://www.atxtechnology.com/?p=672 to https://www.atxtechnology.com/telecom-infrastructure-services/
+12:01:38	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3419
+12:01:38	Warning: 	File has moved from https://www.atxtechnology.com/?p=3419 to https://www.atxtechnology.com/telecom-infrastructure-services/osp-construction/
+12:01:38	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3422
+12:01:38	Warning: 	File has moved from https://www.atxtechnology.com/?p=3422 to https://www.atxtechnology.com/telecom-infrastructure-services/underground-cable-construction/
+12:01:38	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3426
+12:01:38	Warning: 	File has moved from https://www.atxtechnology.com/?p=3426 to https://www.atxtechnology.com/telecom-infrastructure-services/inside-plant-cabling-structured-cabling/
+12:01:38	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3429
+12:01:38	Warning: 	File has moved from https://www.atxtechnology.com/?p=3429 to https://www.atxtechnology.com/telecom-infrastructure-services/atx-technology-telecom-critical-power-cooling-equipment-services/
+12:01:38	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3431
+12:01:38	Warning: 	File has moved from https://www.atxtechnology.com/?p=3431 to https://www.atxtechnology.com/telecom-infrastructure-services/wireless-network-planning/
+12:01:38	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3433
+12:01:38	Warning: 	File has moved from https://www.atxtechnology.com/?p=3433 to https://www.atxtechnology.com/telecom-infrastructure-services/wireless-network-deployment/
+12:01:38	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3437
+12:01:38	Warning: 	File has moved from https://www.atxtechnology.com/?p=3437 to https://www.atxtechnology.com/telecom-infrastructure-services/satellite-receiving-station-construction/
+12:01:38	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3424
+12:01:38	Warning: 	File has moved from https://www.atxtechnology.com/?p=3424 to https://www.atxtechnology.com/telecom-infrastructure-services/aerial-cable-construction/
+12:01:38	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=703
+12:01:38	Warning: 	File has moved from https://www.atxtechnology.com/?p=703 to https://www.atxtechnology.com/telecom-infrastructure-services/copper-fiber-optic-network-construction/
+12:01:38	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3557
+12:01:38	Warning: 	File has moved from https://www.atxtechnology.com/?p=3557 to https://www.atxtechnology.com/power-infrastructure-services/
+12:01:38	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3449
+12:01:38	Warning: 	File has moved from https://www.atxtechnology.com/?p=3449 to https://www.atxtechnology.com/power-infrastructure-services/power-line-structures-civil-build/
+12:01:38	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3451
+12:01:38	Warning: 	File has moved from https://www.atxtechnology.com/?p=3451 to https://www.atxtechnology.com/power-infrastructure-services/underground-power-line-construction/
+12:01:38	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3453
+12:01:38	Warning: 	File has moved from https://www.atxtechnology.com/?p=3453 to https://www.atxtechnology.com/power-infrastructure-services/overhead-power-line-construction/
+12:01:38	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3455
+12:01:38	Warning: 	File has moved from https://www.atxtechnology.com/?p=3455 to https://www.atxtechnology.com/power-infrastructure-services/transformer-installation-maintenance-repairs/
+12:01:38	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3457
+12:01:38	Warning: 	File has moved from https://www.atxtechnology.com/?p=3457 to https://www.atxtechnology.com/power-infrastructure-services/substation-switchgear-installation/
+12:01:38	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3408
+12:01:38	Warning: 	File has moved from https://www.atxtechnology.com/?p=3408 to https://www.atxtechnology.com/civil-works/
+12:01:38	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3471
+12:01:38	Warning: 	File has moved from https://www.atxtechnology.com/?p=3471 to https://www.atxtechnology.com/civil-works/directional-drilling-moling/
+12:01:38	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3469
+12:01:38	Warning: 	File has moved from https://www.atxtechnology.com/?p=3469 to https://www.atxtechnology.com/civil-works/water-infrastructure-services/
+12:01:38	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3473
+12:01:38	Warning: 	File has moved from https://www.atxtechnology.com/?p=3473 to https://www.atxtechnology.com/civil-works/site-build-civil-works/
+12:01:39	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3409
+12:01:39	Warning: 	File has moved from https://www.atxtechnology.com/?p=3409 to https://www.atxtechnology.com/engineering-managed-services/
+12:01:39	Warning: 	Moved Permanently for https://www.atxtechnology.com/site-build-civil-works/24-7-emergency-response-fiber-repair/
+12:01:39	Warning: 	File has moved from https://www.atxtechnology.com/site-build-civil-works/24-7-emergency-response-fiber-repair/ to https://www.atxtechnology.com/civil-works/site-build-civil-works/24-7-emergency-response-fiber-repair/
+12:01:39	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3475
+12:01:39	Warning: 	File has moved from https://www.atxtechnology.com/?p=3475 to https://www.atxtechnology.com/engineering-managed-services/engineering-services/
+12:01:39	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3479
+12:01:39	Warning: 	File has moved from https://www.atxtechnology.com/?p=3479 to https://www.atxtechnology.com/engineering-managed-services/project-management/
+12:01:39	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3482
+12:01:39	Warning: 	File has moved from https://www.atxtechnology.com/?p=3482 to https://www.atxtechnology.com/engineering-managed-services/electrical-maintenance-repair/
+12:01:39	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3484
+12:01:39	Warning: 	File has moved from https://www.atxtechnology.com/?p=3484 to https://www.atxtechnology.com/civil-works/site-build-civil-works/24-7-emergency-response-fiber-repair/
+12:01:39	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3486
+12:01:39	Warning: 	File has moved from https://www.atxtechnology.com/?p=3486 to https://www.atxtechnology.com/engineering-managed-services/sales-and-distribution/
+12:01:39	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=827
+12:01:39	Warning: 	File has moved from https://www.atxtechnology.com/?p=827 to https://www.atxtechnology.com/projects/
+12:01:53	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=686
+12:01:53	Warning: 	File has moved from https://www.atxtechnology.com/?p=686 to https://www.atxtechnology.com/job-posting/
+12:01:53	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=549
+12:01:53	Warning: 	File has moved from https://www.atxtechnology.com/?p=549 to https://www.atxtechnology.com/why-work-here/
+12:01:53	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3744
+12:01:53	Warning: 	File has moved from https://www.atxtechnology.com/?p=3744 to https://www.atxtechnology.com/portfolio/zuku/
+12:01:55	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3742
+12:01:55	Warning: 	File has moved from https://www.atxtechnology.com/?p=3742 to https://www.atxtechnology.com/portfolio/umeme/
+12:01:57	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3740
+12:01:57	Warning: 	File has moved from https://www.atxtechnology.com/?p=3740 to https://www.atxtechnology.com/portfolio/huawei/
+12:01:57	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3738
+12:01:57	Warning: 	File has moved from https://www.atxtechnology.com/?p=3738 to https://www.atxtechnology.com/portfolio/google-metropolitan-wifi/
+12:01:57	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3736
+12:01:57	Warning: 	File has moved from https://www.atxtechnology.com/?p=3736 to https://www.atxtechnology.com/portfolio/fire-drill/
+12:01:58	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3734
+12:01:58	Warning: 	File has moved from https://www.atxtechnology.com/?p=3734 to https://www.atxtechnology.com/portfolio/eaton/
+12:02:01	Warning: 	Moved Permanently for https://www.atxtechnology.com/?p=3732
+12:02:01	Warning: 	File has moved from https://www.atxtechnology.com/?p=3732 to https://www.atxtechnology.com/portfolio/airtel/
+12:02:01	Error: 	"Not Found" (404) at link https://www.atxtechnology.com/2020/09/07/ (from https://www.atxtechnology.com/portfolio/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 6 seconds : 403 links scanned, 358 files written (13907764 bytes overall) [10399997 bytes received at 55913 bytes/sec], 4869584 bytes transferred using HTTP compression in 139 files, ratio 20%, 12.6 requests per connection
+(4 errors, 82 warnings, 0 messages)
