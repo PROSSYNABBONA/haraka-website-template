@@ -206,9 +206,15 @@ pre {
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
 }
+/* Active Navigation Link Styles */
+.navbar ul.induzy-main-menu > li.current-menu-item > a,
+.navbar ul.induzy-main-menu > li.current_page_item > a {
+    color: #ffd700 !important;
+}
 table td {
     padding: 5px;
 }
+
 table td, table td {
     border: 1px solid #e1e1e1;
     padding: 8px 10px;
